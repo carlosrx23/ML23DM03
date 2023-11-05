@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cadastro de Nomes</string>
+    <string-array name="cursos_array">
+
+        <item>ADS</item>
+        <item>TI</item>
+
+    </string-array>
+</resources>
